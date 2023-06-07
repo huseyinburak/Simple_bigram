@@ -1,7 +1,7 @@
 # Simple_bigram
 Simple Bigram Model
 
-This code generates unigram and bigram models with two randomly written test texts.
+This code generates unigram and bigram models with randomly written test texts.
 
 Smoothing was applied for words with low frequency.
 
